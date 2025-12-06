@@ -45,3 +45,6 @@ Feel free to create issues or open PRs — but beware:
 ## ⭐ Support  
 If you like the vision, don’t forget to **star the repo!**  
 Each star increases developer motivation by +10%.
+
+
+https://github.com/kunal4060/PRIVEX.git
