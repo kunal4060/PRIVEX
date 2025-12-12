@@ -1,5 +1,4 @@
 # PRIVEX
-# PRIVEX
 
 🔐 **Project Privex**  
 A next-gen private messaging app… currently being assembled by sleep-deprived developers.
